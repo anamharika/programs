@@ -25,7 +25,7 @@ public class practiclist {
 		//how to add data into a specific index of the lists//
 		Data1.add(4, "follow");
 		
-
+System.out.println("--------------------*------");
 
 		//how to get the data from the list//
 		System.out.println(Data1);
